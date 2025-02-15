@@ -30,7 +30,7 @@ I'm a passionate **Software Engineer** from Multan, Pakistan, with expertise in 
 
 ## 📫 Let's Connect!
 - ![GitHub Logo](https://example.com/github-logo.png) **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- ![LinkedIn Logo](https://example.com/linkedin-logo.png) **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- ![LinkedIn Logo](https://linkedin.com/linkedin-logo.png) **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/huzaifamushtaqofficial)
 - ![Twitter Logo](https://example.com/twitter-logo.png) **Twitter**: [twitter.com/yourusername](https://twitter.com/yourusername)
 
 🚀 Always excited to collaborate and learn from like-minded developers!
