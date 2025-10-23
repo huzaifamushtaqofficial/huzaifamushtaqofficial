@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Mushtaq</h1>
-<h3 align="center">A passionate Fullstack Developer specialized in Generative AI / Top Rated Plus Freelancer @ Upwork / Founder of Xenzox Technologies</h3>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/huzaifamushtaqofficial/huzaifamushtaqofficial/main/linkdinn.jpg" alt="LinkedIn Banner" width="90%"/>
 </p>
+<h3 align="center">A passionate Fullstack Developer specialized in Generative AI / Top Rated Plus Freelancer @ Upwork / Founder of Xenzox Technologies</h3>
+
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifamushtaqofficial&" alt="huzaifamushtaqofficial" /></p>
