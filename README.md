@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/huzaifamushtaqofficial" target="_blank"><img src="https://raw.githubusercontent.com/huzaifamushtaqofficial/huzaifamushtaqofficial/main/linkdinn.jpg" alt="LinkedIn Banner" width="90%"/></a>
+  <a href="https://www.linkedin.com/in/huzaifamushtaqofficial" target="blank"><img src="https://raw.githubusercontent.com/huzaifamushtaqofficial/huzaifamushtaqofficial/main/linkdinn.jpg" alt="LinkedIn Banner" width="90%"/></a>
 </p>
 <h1 align="center">Hi 👋, I'm Huzaifa Mushtaq</h1>
 <h3 align="center">A passionate Fullstack Developer specialized in Generative AI / Top Rated Plus Freelancer @ Upwork / Founder of Xenzox Technologies</h3>
